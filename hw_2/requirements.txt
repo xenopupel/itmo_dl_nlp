@@ -1,0 +1,7 @@
+corus
+nltk
+scikit-learn
+pandas
+pymorphy3
+gensim
+navec
