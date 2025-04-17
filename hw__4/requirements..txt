@@ -1,0 +1,13 @@
+pyarrow
+numpy
+pandas
+torch
+evaluate
+corus
+razdel
+scikit-learn
+datasets
+transformers
+tqdm
+deeppavlov
+torch
