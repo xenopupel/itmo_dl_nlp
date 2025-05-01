@@ -1,0 +1,12 @@
+pandas
+numpy
+corus
+tqdm
+pymorphy3
+nltk
+gensim
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+bertopic
